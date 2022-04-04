@@ -1,0 +1,2 @@
+# se-db4o is no longer actively maintained by VMware, Inc.
+
