@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document xmlns="http://maven.apache.org/XDOC/2.0"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 https://maven.apache.org/xsd/xdoc-2.0.xsd">
 
   <body>
 
     <section name="OSGi">
-      <p>Spring db4o Extension tries to be a good OSGi citizen and the bundle comes with proper OSGi headers. Blueprint support is tested on <a href="http://www.eclipse.org/gemini/blueprint/">Eclipse Gemini Blueprint</a> (formerly <a href="http://www.springsource.org/osgi">Spring Dynamic Modules for OSGi&#0153; Service Platforms</a> Blueprint) and <a href="http://incubator.apache.org/aries/blueprint.html">Apache Aries Blueprint</a>.</p>
+      <p>Spring db4o Extension tries to be a good OSGi citizen and the bundle comes with proper OSGi headers. Blueprint support is tested on <a href="https://www.eclipse.org/gemini/blueprint/">Eclipse Gemini Blueprint</a> (formerly <a href="https://www.springsource.org/osgi">Spring Dynamic Modules for OSGi&#0153; Service Platforms</a> Blueprint) and <a href="https://incubator.apache.org/aries/blueprint.html">Apache Aries Blueprint</a>.</p>
     </section>
 
     <section name="OSGi Blueprint Configuration">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document xmlns="http://maven.apache.org/XDOC/2.0"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 https://maven.apache.org/xsd/xdoc-2.0.xsd">
 
   <body>
 
@@ -21,7 +21,7 @@
       </subsection>
 
       <subsection name="ClientConfiguration">
-        <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/client_configuration.htm">db4o 8.0 reference</a></p>
+        <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/client_configuration.htm">db4o 8.0 reference</a></p>
         <source><![CDATA[
     <property name="prefetchDepth" value="5"/>
     <property name="prefetchIDCount" value="10"/>
@@ -37,7 +37,7 @@
       </subsection>
 
       <subsection name="ServerConfiguration">
-        <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/server_configuration.htm">db4o 8.0 reference</a></p>
+        <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/server_configuration.htm">db4o 8.0 reference</a></p>
         <source><![CDATA[
     <property name="timeoutServerSocket" value="600000"/>
     <property name="configurationItem">
@@ -55,7 +55,7 @@
     <section name="Common Configuration">
 
       <subsection name="Common">
-        <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common_configuration.htm">db4o 8.0 reference</a></p>
+        <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common_configuration.htm">db4o 8.0 reference</a></p>
         <source><![CDATA[
     <property name="common.activationDepth" value="2"/>
     <property name="common.allowVersionUpdates" value="true"/>
@@ -103,14 +103,14 @@
       </subsection>
 
       <subsection name="Common Query">
-        <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common/query_modes.htm">db4o 8.0 reference</a></p>
+        <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common/query_modes.htm">db4o 8.0 reference</a></p>
         <source><![CDATA[
     <property name="common.query.evaluationMode" value="Immediate"/>
         ]]></source>
       </subsection>
 
       <subsection name="Common Diagnostic">
-        <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common/diagnostics.htm">db4o 8.0 reference</a></p>
+        <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common/diagnostics.htm">db4o 8.0 reference</a></p>
         <source><![CDATA[
     <property name="common.diagnostic.listener">
       <bean class="com.db4o.diagnostic.DiagnosticListener"/>
@@ -131,7 +131,7 @@
     <section name="File Configuration">
 
       <subsection name="File">
-        <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/file_configuration.htm">db4o 8.0 reference</a></p>
+        <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/file_configuration.htm">db4o 8.0 reference</a></p>
         <source><![CDATA[
     <property name="file.asynchronousSync" value="true"/>
     <property name="file.blobPath" value="/var/db4o/blobs/"/>
@@ -151,7 +151,7 @@
       </subsection>
 
       <subsection name="File Freespace">
-        <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/file/freespace_configuration.htm">db4o 8.0 reference</a></p>
+        <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/file/freespace_configuration.htm">db4o 8.0 reference</a></p>
         <source><![CDATA[
     <property name="file.freespace.discardSmallerThan" value="256"/>
     <property name="file.freespace.freespaceFiller">
@@ -164,14 +164,14 @@
     </section>
 
     <section name="ID System Configuration">
-      <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/id_system.htm">db4o 8.0 reference</a></p>
+      <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/id_system.htm">db4o 8.0 reference</a></p>
       <source><![CDATA[
     <property name="idSystem.system" value="PointerBased"/>
       ]]></source>
     </section>
 
     <section name="Networking Configuration">
-      <p><a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/network_configuration.htm">db4o 8.0 reference</a></p>
+      <p><a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/network_configuration.htm">db4o 8.0 reference</a></p>
       <source><![CDATA[
     <property name="networking.batchMessages" value="true"/>
     <property name="networking.clientServerFactory">
