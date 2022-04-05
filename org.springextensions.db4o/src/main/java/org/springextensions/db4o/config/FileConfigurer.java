@@ -26,7 +26,7 @@ import com.db4o.io.Storage;
 
 /**
  * @author olli
- * @see <a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/file_configuration.htm">File Configuration</a>
+ * @see <a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/file_configuration.htm">File Configuration</a>
  */
 public class FileConfigurer {
 

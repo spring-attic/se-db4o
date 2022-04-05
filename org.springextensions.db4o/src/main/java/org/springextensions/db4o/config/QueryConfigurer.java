@@ -20,7 +20,7 @@ import com.db4o.config.QueryEvaluationMode;
 
 /**
  * @author olli
- * @see <a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common/query_modes.htm">Query Modes</a>
+ * @see <a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common/query_modes.htm">Query Modes</a>
  */
 public class QueryConfigurer {
 

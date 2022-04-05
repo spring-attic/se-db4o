@@ -22,7 +22,7 @@ import com.db4o.diagnostic.DiagnosticListener;
 
 /**
  * @author olli
- * @see <a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common/diagnostics.htm">Diagnostics</a>
+ * @see <a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common/diagnostics.htm">Diagnostics</a>
  */
 public class DiagnosticConfigurer {
 

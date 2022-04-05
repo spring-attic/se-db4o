@@ -20,7 +20,7 @@ import com.db4o.config.FreespaceFiller;
 
 /**
  * @author olli
- * @see <a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/file/freespace_configuration.htm">Freespace Configuration</a>
+ * @see <a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/file/freespace_configuration.htm">Freespace Configuration</a>
  */
 public class FreespaceConfigurer {
 

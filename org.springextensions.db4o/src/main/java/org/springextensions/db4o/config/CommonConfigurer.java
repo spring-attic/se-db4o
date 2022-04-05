@@ -30,7 +30,7 @@ import com.db4o.typehandlers.TypeHandlerPredicate;
 
 /**
  * @author olli
- * @see <a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common_configuration.htm">Common Configuration</a>
+ * @see <a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/common_configuration.htm">Common Configuration</a>
  */
 public class CommonConfigurer {
 

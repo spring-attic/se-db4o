@@ -20,7 +20,7 @@ import com.db4o.config.IdSystemFactory;
 
 /**
  * @author olli
- * @see <a href="http://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/id_system.htm">Id System</a>
+ * @see <a href="https://developer.db4o.com/Documentation/Reference/db4o-8.0/java/reference/Content/configuration/id_system.htm">Id System</a>
  */
 public class IdSystemConfigurer {
 
