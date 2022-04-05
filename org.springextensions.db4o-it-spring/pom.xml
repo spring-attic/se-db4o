@@ -14,7 +14,7 @@
   <artifactId>org.springextensions.db4o-it-spring</artifactId>
   <name>Spring db4o Extension IT Spring</name>
 
-  <url>http://www.springsource.org/extensions/se-db4o</url>
+  <url>https://www.springsource.org/extensions/se-db4o</url>
 
   <description>Spring Integration Tests for Spring db4o Extension</description>
 

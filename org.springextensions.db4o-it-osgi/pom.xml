@@ -14,7 +14,7 @@
   <artifactId>org.springextensions.db4o-it-osgi</artifactId>
   <name>Spring db4o Extension IT OSGi</name>
 
-  <url>http://www.springsource.org/extensions/se-db4o</url>
+  <url>https://www.springsource.org/extensions/se-db4o</url>
 
   <description>OSGi Integration Tests for Spring db4o Extension</description>
 
